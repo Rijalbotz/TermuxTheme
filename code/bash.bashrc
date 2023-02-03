@@ -392,7 +392,7 @@ sleep 0.0
 echo -e "\e[96m"
 date
 echo ""
-echo "                   HERE WE GO ALWAYS"|lolcat
+echo "                   STAND ALONE WITH INSULTS"|lolcat
 echo "                    "⚡ 2020/2023 ⚡
 echo " "
 echo -e "\e[32m"
