@@ -370,9 +370,9 @@ echo ""
 echo ""
 echo ""
 echo ""
-echo "                  H3LL0 GUYS H4CK3R H3R3"|lolcat
-echo "                 I AM OPENING MY TERMINAL"|lolcat
-echo "             SO JUST KEEP WATCHING TO SEE HACKS"|lolcat
+echo "                  WELCOME BACK LORD!"|lolcat
+echo "                 PANTANG TURU MALAM </>"|lolcat
+echo "             SCRIPT MODIFICATION BY BOTCAHX"|lolcat
 echo""
 echo -e "\e[32m"
 echo "                   "[██████████████████████ 100%]
@@ -393,6 +393,6 @@ echo -e "\e[96m"
 date
 echo ""
 echo "                   HERE WE GO ALWAYS"|lolcat
-echo "                    "⚡ 127.0.0.1 ⚡
+echo "                    "⚡ 2020/2023 ⚡
 echo " "
 echo -e "\e[32m"
