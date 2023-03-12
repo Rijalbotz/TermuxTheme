@@ -1,19 +1,18 @@
 #!/bin/bash
-# coded by BajeTech (AliByte01)
-# Created since on 10/02/2021 made in Nigeria by BajeTech (AliByte01)
-# Recode BOTCAHX 
-# If You Take Money For This Little Tool Bash Script Please Look At Your Self Again And Shame To You.
-# visit our website https://bajetech.org
+# coded by BajeTech (Lann)
+# Created since on 12/03/2023 made in Indonesian by Lann
+# Follow My Github https://github.com/ERLANRAHMAT
+# visit our website https://api.lannn.me
 clear
 sleep 0.5
 echo ""
-echo "  [VISIT https://tiodevhost.my.id]"|lolcat
+echo "  [VISIT https://api.lannn.me]"|lolcat
 echo "    _____   _____ _   _ _____ __  __ _____"|lolcat
 echo "   |_   _| |_   _| | | | ____|  \/  | ____|"|lolcat
 echo "     | |_____| | | |_| |  _| | |\/| |  _|"  |lolcat
 echo "     | |_____| | |  _  | |___| |  | | |___" |lolcat
 echo "     |_|     |_| |_| |_|_____|_|  |_|_____|"|lolcat
-echo "  [RECODE BY: BOTCAHX]"|lolcat
+echo "  [SC BY: LANN]"|lolcat
 sleep 0.5
 echo ""
 echo "Anda Akan Mengalihkan Termux Ke Mode Penuh Warna."|lolcat
